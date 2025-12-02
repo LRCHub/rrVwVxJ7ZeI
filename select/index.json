@@ -1,0 +1,232 @@
+{
+  "version": 1,
+  "base_track": "Wait & See ～リスク～",
+  "base_artist": "Hikaru Utada",
+  "createdAt": "2025-12-02T14:00:52.545811Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Wait",
+      "artist": "Lou Reed",
+      "has_synced": true,
+      "path": "select/01_Wait_Lou_Reed.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "WAIT FOR U (feat. Drake & Tems)",
+      "artist": "Future feat. Tems & Drake",
+      "has_synced": true,
+      "path": "select/02_WAIT_FOR_U_(feat._Drake_&_Tems)_Future_feat._Tems_&_Drake.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Don't Wait On Me",
+      "artist": "The Statler Brothers",
+      "has_synced": true,
+      "path": "select/03_Don't_Wait_On_Me_The_Statler_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I CAN'T WAIT TO LOVE YOU (feat. Anna Moon)",
+      "artist": "Niko Moon feat. Anna Moon",
+      "has_synced": false,
+      "path": "select/04_I_CAN'T_WAIT_TO_LOVE_YOU_(feat._Anna_Moon)_Niko_Moon_feat._Anna_Moon.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I CAN'T WAIT TO LOVE YOU",
+      "artist": "Niko Moon",
+      "has_synced": false,
+      "path": "select/05_I_CAN'T_WAIT_TO_LOVE_YOU_Niko_Moon.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I'll Wait for You",
+      "artist": "Jason Aldean",
+      "has_synced": true,
+      "path": "select/06_I'll_Wait_for_You_Jason_Aldean.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "wait in the truck",
+      "artist": "Hardy",
+      "has_synced": true,
+      "path": "select/07_wait_in_the_truck_Hardy.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "wait in the truck (feat. Lainey Wilson)",
+      "artist": "Hardy",
+      "has_synced": true,
+      "path": "select/08_wait_in_the_truck_(feat._Lainey_Wilson)_Hardy.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Wait a Minute",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/09_Wait_a_Minute_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Wait On Me (feat. Raheem Devaughn)",
+      "artist": "Guru",
+      "has_synced": false,
+      "path": "select/10_Wait_On_Me_(feat._Raheem_Devaughn)_Guru.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Wait On Me (Ft. Raheem Devaughn)",
+      "artist": "Guru",
+      "has_synced": false,
+      "path": "select/11_Wait_On_Me_(Ft._Raheem_Devaughn)_Guru.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Wait for the Summer",
+      "artist": "Yeasayer",
+      "has_synced": true,
+      "path": "select/12_Wait_for_the_Summer_Yeasayer.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Wait for the Wintertime",
+      "artist": "Yeasayer",
+      "has_synced": true,
+      "path": "select/13_Wait_for_the_Wintertime_Yeasayer.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Wait A Minute",
+      "artist": "YNW Bslime",
+      "has_synced": true,
+      "path": "select/14_Wait_A_Minute_YNW_Bslime.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Heaven Can Wait",
+      "artist": "LSD feat. Sia, Diplo & Labrinth",
+      "has_synced": true,
+      "path": "select/15_Heaven_Can_Wait_LSD_feat._Sia,_Diplo_&_Labrinth.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Heaven Can Wait",
+      "artist": "LSD",
+      "has_synced": true,
+      "path": "select/16_Heaven_Can_Wait_LSD.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I Can't Wait",
+      "artist": "Luna",
+      "has_synced": true,
+      "path": "select/17_I_Can't_Wait_Luna.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "I Can't Wait for Your Love",
+      "artist": "Lyrics Born",
+      "has_synced": false,
+      "path": "select/18_I_Can't_Wait_for_Your_Love_Lyrics_Born.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "I Sit I Watch I Wait",
+      "artist": "Lost Sounds",
+      "has_synced": true,
+      "path": "select/19_I_Sit_I_Watch_I_Wait_Lost_Sounds.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Wait & See ～リスク～",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_01_Wait_&_See_~リスク~_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Wait & See ～リスク～",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_02_Wait_&_See_~リスク~_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Wait & See~リスク~",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_03_Wait_&_See~リスク~_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Wait & See - リスク -",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_04_Wait_&_See_-_リスク_-_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Wait & See ～リスク～",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_05_Wait_&_See_~リスク~_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "Wait & See ～リスク～",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_06_Wait_&_See_~リスク~_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "Wait & See ～リスク～",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_07_Wait_&_See_~リスク~_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "Wait & See ～リスク～",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_08_Wait_&_See_~リスク~_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "Wait & See ~リスク~",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_09_Wait_&_See_~リスク~_宇多田_ヒカル.txt"
+    }
+  ]
+}
